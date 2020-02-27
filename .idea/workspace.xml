@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75197a29-dec6-410f-864f-2896b0ae9f55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YMAFGuE00k5DAailybxk8xBz0A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TesteJar" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestaBhaskara" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.basis.bhaskarasimples.main.TestaBhaskara" />
+      <module name="BhaskaraSimples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.basis.bhaskarasimples.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="BhaskaraSimples" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="BhaskaraSimples" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestaBhaskara" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75197a29-dec6-410f-864f-2896b0ae9f55" name="Default Changelist" comment="" />
+      <created>1582741983577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582741983577</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2411" y="70" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1582742782031">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state x="2411" y="70" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053/1920.0.1366.768@1920.0.1366.768" timestamp="1582742782031" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582749213045">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582749213045" />
+    <state width="1086" height="397" key="GridCell.Tab.0.bottom" timestamp="1582749214199">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1366.768@1920.0.1366.768" timestamp="1582743256122" />
+    <state width="1086" height="397" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582749214199" />
+    <state width="1086" height="397" key="GridCell.Tab.0.center" timestamp="1582749214198">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1366.768@1920.0.1366.768" timestamp="1582743256122" />
+    <state width="1086" height="397" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582749214198" />
+    <state width="1086" height="397" key="GridCell.Tab.0.left" timestamp="1582749214198">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1366.768@1920.0.1366.768" timestamp="1582743256122" />
+    <state width="1086" height="397" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582749214198" />
+    <state width="1086" height="397" key="GridCell.Tab.0.right" timestamp="1582749214199">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1366.768@1920.0.1366.768" timestamp="1582743256122" />
+    <state width="1086" height="397" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582749214199" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1582747025990">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582747025990" />
+  </component>
+</project>
